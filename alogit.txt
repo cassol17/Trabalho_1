@@ -1,2 +1,6 @@
 Alô Git
+<<<<<<< HEAD
 Jonathan aqui
+=======
+Renan aqui
+>>>>>>> 0122f2e (Mensagem do Renan no alogit.txt)
